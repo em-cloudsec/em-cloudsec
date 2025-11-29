@@ -38,7 +38,7 @@ These are the primary repositories that represent my work:
 
 ### 1. Cloud Security Portfolio
 
-Repository: https://github.com/em-cloudsec/cloud-security-portfolio
+Repository: [https://github.com/em-cloudsec/cloud-security-portfolio](https://github.com/em-cloudsec/Resume-Projects)
 
 A structured portfolio of AWS cloud security projects.  
 Each project includes:  
